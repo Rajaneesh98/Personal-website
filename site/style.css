@@ -1,0 +1,19 @@
+body{
+    background-color: #CEE5D0; /*FCF0C8 CEE5D0*/
+}
+
+hr{
+    border-color: burlywood;
+    border-style: dotted none none;
+    width: 12%;
+    border-width: 5px;
+    
+}
+
+h1{
+    color: #082032 ;  /*00A19D 082032*/
+}
+
+h3{
+    color: #1E3163  ; /*1E3163 345B63 3DB2FF */
+}
